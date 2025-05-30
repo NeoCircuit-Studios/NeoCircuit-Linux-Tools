@@ -30,7 +30,7 @@
 
    or in the linux Terminal
 
-   sudo wget https://github.com/NeoCircuit-Studios/NeoCircuit-Linux-Tools/releases/download/final/NeoCircuit-Linux-Tools-x64.guust
+   sudo wget 'https://github.com/NeoCircuit-Studios/NeoCircuit-Linux-Tools/releases/download/final/NeoCircuit-Linux-Tools-x64.guust'
 
 
 
