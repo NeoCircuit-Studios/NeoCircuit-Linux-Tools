@@ -1,6 +1,6 @@
 # Linux Terminal Tools
 
-   In WSL, this Terminal App **does not** function. Please utilize an Ubuntu/Linux native installation.
+   In WSL, this Terminal App **does not (well)** function. Please use an Ubuntu/Linux native installation.
 
 
    This straightforward and easy-to-use Bash Terminal app was made specifically for installing stuff without giving you a headache.
