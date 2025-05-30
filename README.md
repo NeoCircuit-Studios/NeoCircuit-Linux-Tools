@@ -10,9 +10,13 @@
    ## Features
 
    easy to use.
+
    It is compatible with Ubuntu.
+
    Simple to operate, perfect for novices, and safe for frequent use (idempotent).
+   
    Self-cleanup logic is included.
+
    the terminal app will automatically update.
    ---
 
