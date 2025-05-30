@@ -1,2 +1,0 @@
-C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\bin\Release\net9.0\publish\linux-x64\WineInstall-x64.pdb
-C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\bin\Release\net9.0\publish\linux-x64\WineInstall-x64

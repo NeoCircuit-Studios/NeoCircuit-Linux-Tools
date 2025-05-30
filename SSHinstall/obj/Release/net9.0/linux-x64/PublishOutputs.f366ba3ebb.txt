@@ -1,2 +1,0 @@
-C:\.dev\tools\NeoCircuit-Linux-Tools\SSH-install\bin\Release\net9.0\linux-x64\publish\SSH-install.pdb
-C:\.dev\tools\NeoCircuit-Linux-Tools\SSH-install\bin\Release\net9.0\linux-x64\publish\SSH-install

@@ -1,2 +1,0 @@
-C:\.dev\tools\NeoCircuit-Linux-Tools\Core\bin\Release\net9.0\linux-x64\publish\Core-x64.pdb
-C:\.dev\tools\NeoCircuit-Linux-Tools\Core\bin\Release\net9.0\linux-x64\publish\Core-x64
