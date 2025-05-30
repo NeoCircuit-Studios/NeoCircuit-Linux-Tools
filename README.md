@@ -14,7 +14,7 @@
    It is compatible with Ubuntu.
 
    Simple to operate, perfect for novices, and safe for frequent use (idempotent).
-   
+
    Self-cleanup logic is included.
 
    the terminal app will automatically update.
@@ -27,6 +27,12 @@
    ###1. Click this link to download the script.
 
    Download `NeoCircuit-Linux-Tools-x64.guust` in "Script-Download" from the [Releases page](https://github.com/NeoCircuit-Studios/NeoCircuit-Linux-Tools/releases/tag/final).
+
+   or in the linux Terminal
+
+   sudo wget https://github.com/NeoCircuit-Studios/NeoCircuit-Linux-Tools/releases/download/final/NeoCircuit-Linux-Tools-x64.guust
+
+
 
 ## How to Apply
 
