@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+OFwxY9aPg=",
+  "success": true,
+  "projectFilePath": "P:\\.DEV\\Apps\\NeoCircuit-Linux-Tools\\NeoCircuit.Linux.Tools\\NeoCircuit.Linux.Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PSPC-Edu\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
+    "C:\\Users\\PSPC-Edu\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\9.0.4\\microsoft.netcore.app.runtime.win-x86.9.0.4.nupkg.sha512",
+    "C:\\Users\\PSPC-Edu\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\9.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.9.0.4.nupkg.sha512",
+    "C:\\Users\\PSPC-Edu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\9.0.4\\microsoft.aspnetcore.app.runtime.win-x86.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

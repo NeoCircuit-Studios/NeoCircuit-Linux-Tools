@@ -1,0 +1,2 @@
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\bin\Release\net9.0\linux-x64\publish\NeoCircuit-Linux-Tools-x64.pdb
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\bin\Release\net9.0\linux-x64\publish\NeoCircuit-Linux-Tools-x64

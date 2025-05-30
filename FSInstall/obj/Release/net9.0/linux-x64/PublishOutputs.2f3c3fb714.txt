@@ -1,0 +1,2 @@
+C:\.dev\tools\NeoCircuit-Linux-Tools\FSInstall\bin\Release\net9.0\linux-x64\publish\FSInstall-x64.pdb
+C:\.dev\tools\NeoCircuit-Linux-Tools\FSInstall\bin\Release\net9.0\linux-x64\publish\FSInstall-x64

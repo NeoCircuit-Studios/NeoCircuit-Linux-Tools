@@ -1,0 +1,16 @@
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\bin\Debug\net9.0\WineInstall.exe
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\bin\Debug\net9.0\WineInstall.deps.json
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\bin\Debug\net9.0\WineInstall.runtimeconfig.json
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\bin\Debug\net9.0\WineInstall.dll
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\bin\Debug\net9.0\WineInstall.pdb
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\obj\Debug\net9.0\WineInstall.GeneratedMSBuildEditorConfig.editorconfig
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\obj\Debug\net9.0\WineInstall.csproj.CoreCompileInputs.cache
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\obj\Debug\net9.0\WineInstall.dll
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\obj\Debug\net9.0\refint\WineInstall.dll
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\obj\Debug\net9.0\WineInstall.pdb
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\obj\Debug\net9.0\WineInstall.genruntimeconfig.cache
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\obj\Debug\net9.0\ref\WineInstall.dll
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\bin\Debug\net9.0\NeoCircuit.Shared.dll
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\bin\Debug\net9.0\NeoCircuit.Shared.pdb
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\obj\Debug\net9.0\WineInstall.csproj.AssemblyReference.cache
+P:\.DEV\Apps\NeoCircuit-Linux-Tools\NeoCircuit-Studios\WineInstall\src\obj\Debug\net9.0\WineInst.40B1E3F0.Up2Date

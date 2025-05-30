@@ -1,0 +1,14 @@
+P:\.DEV\Apps\Hello_Wine\bin\Release\net8.0\Hello_Wine.exe
+P:\.DEV\Apps\Hello_Wine\bin\Release\net8.0\Hello_Wine.deps.json
+P:\.DEV\Apps\Hello_Wine\bin\Release\net8.0\Hello_Wine.runtimeconfig.json
+P:\.DEV\Apps\Hello_Wine\bin\Release\net8.0\Hello_Wine.dll
+P:\.DEV\Apps\Hello_Wine\bin\Release\net8.0\Hello_Wine.pdb
+P:\.DEV\Apps\Hello_Wine\obj\Release\net8.0\Hello_Wine.GeneratedMSBuildEditorConfig.editorconfig
+P:\.DEV\Apps\Hello_Wine\obj\Release\net8.0\Hello_Wine.AssemblyInfoInputs.cache
+P:\.DEV\Apps\Hello_Wine\obj\Release\net8.0\Hello_Wine.AssemblyInfo.cs
+P:\.DEV\Apps\Hello_Wine\obj\Release\net8.0\Hello_Wine.csproj.CoreCompileInputs.cache
+P:\.DEV\Apps\Hello_Wine\obj\Release\net8.0\Hello_Wine.dll
+P:\.DEV\Apps\Hello_Wine\obj\Release\net8.0\refint\Hello_Wine.dll
+P:\.DEV\Apps\Hello_Wine\obj\Release\net8.0\Hello_Wine.pdb
+P:\.DEV\Apps\Hello_Wine\obj\Release\net8.0\Hello_Wine.genruntimeconfig.cache
+P:\.DEV\Apps\Hello_Wine\obj\Release\net8.0\ref\Hello_Wine.dll

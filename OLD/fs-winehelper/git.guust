@@ -1,0 +1,20 @@
+- Step 1: Check untracked files
+git status
+
+Step 2: Add them all (if no .gitignore issues)
+
+git add .
+
+- Or add individual files:
+
+git add NS-Update.sh NS-Run-Dedicated-Server.sh dedicatedServer.exe
+
+
+- Step 3: Commit the changes
+
+git commit -m "Add missing files"
+
+
+- Step 4: Push
+
+git push

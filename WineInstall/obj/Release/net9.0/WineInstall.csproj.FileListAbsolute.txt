@@ -1,0 +1,13 @@
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\bin\Release\net9.0\WineInstall-x64.exe
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\bin\Release\net9.0\WineInstall-x64.deps.json
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\bin\Release\net9.0\WineInstall-x64.runtimeconfig.json
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\bin\Release\net9.0\WineInstall-x64.dll
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\bin\Release\net9.0\WineInstall-x64.pdb
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\obj\Release\net9.0\WineInstall.GeneratedMSBuildEditorConfig.editorconfig
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\obj\Release\net9.0\WineInstall.csproj.CoreCompileInputs.cache
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\obj\Release\net9.0\WineInstall.sourcelink.json
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\obj\Release\net9.0\WineInstall-x64.dll
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\obj\Release\net9.0\refint\WineInstall-x64.dll
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\obj\Release\net9.0\WineInstall-x64.pdb
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\obj\Release\net9.0\WineInstall.genruntimeconfig.cache
+C:\.dev\tools\NeoCircuit-Linux-Tools\WineInstall\obj\Release\net9.0\ref\WineInstall-x64.dll

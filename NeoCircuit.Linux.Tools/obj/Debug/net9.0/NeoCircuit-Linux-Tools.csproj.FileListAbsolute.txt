@@ -1,0 +1,15 @@
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\bin\Debug\net9.0\NeoCircuit-Linux-Tools.exe
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\bin\Debug\net9.0\NeoCircuit-Linux-Tools.deps.json
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\bin\Debug\net9.0\NeoCircuit-Linux-Tools.runtimeconfig.json
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\bin\Debug\net9.0\NeoCircuit-Linux-Tools.dll
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\bin\Debug\net9.0\NeoCircuit-Linux-Tools.pdb
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\obj\Debug\net9.0\NeoCircuit-Linux-Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\obj\Debug\net9.0\NeoCircuit-Linux-Tools.AssemblyInfoInputs.cache
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\obj\Debug\net9.0\NeoCircuit-Linux-Tools.AssemblyInfo.cs
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\obj\Debug\net9.0\NeoCircuit-Linux-Tools.csproj.CoreCompileInputs.cache
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\obj\Debug\net9.0\NeoCircuit-Linux-Tools.sourcelink.json
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\obj\Debug\net9.0\NeoCircuit-Linux-Tools.dll
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\obj\Debug\net9.0\refint\NeoCircuit-Linux-Tools.dll
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\obj\Debug\net9.0\NeoCircuit-Linux-Tools.pdb
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\obj\Debug\net9.0\NeoCircuit-Linux-Tools.genruntimeconfig.cache
+C:\.dev\tools\NeoCircuit-Linux-Tools\NeoCircuit.Linux.Tools\obj\Debug\net9.0\ref\NeoCircuit-Linux-Tools.dll
