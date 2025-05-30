@@ -9,44 +9,33 @@
 
    ## Features
 
-   Installs the usual wine prerequisites
-   It is compatible with Ubuntu 20.04, 22.04, and other comparable distributions and is made for the *Farming Simulator 25 Dedicated Server*.
+   easy to use.
+   It is compatible with Ubuntu.
    Simple to operate, perfect for novices, and safe for frequent use (idempotent).
    Self-cleanup logic is included.
-
+   the terminal app will automatically update.
    ---
 
 
-   ## How to Apply It
+   ## How to get It
 
 
    ###1. Click this link to download the script.
 
-   Download `NS-Build.sh` in "Script-Download" from the [Releases page](https://github.com/NeoCircuit-Studios/fs-winehelper/releases).
-
-   ### 2. 📂   Place it in the game's *(Optional)* folder.
-
-  If **Farming Simulator 25** is being installed with Wine, put the root directory.
+   Download `NeoCircuit-Linux-Tools-x64.guust` in "Script-Download" from the [Releases page](https://github.com/NeoCircuit-Studios/NeoCircuit-Linux-Tools/releases/tag/final).
 
 ## How to Apply
 
  ###1. Click here for the script.
 
 
- Download `NS-Build.sh` from the [Releases page](https://github.com/YourUsername/YourRepoName/releases).
+ Download `NeoCircuit-Linux-Tools-x64.guust` from the [Releases page](https://github.com/NeoCircuit-Studios/NeoCircuit-Linux-Tools/releases/tag/final).
 
- ### 2. 📂  Place in the game folder marked *(Optional)*.
-
- If you are installing Wine for **Farming Simulator 25**, place the script in the root folder of your FS25 Dedicated Server.  
- You can omit this step if you're only installing Wine.
-
- ### 3. 💻 Run the program.
+ ### 2. 💻 Run the program.
 
  Open your terminal and enter:
 
 ```bash
 sudo apt update -y
-sudo apt install dos2unix -y
-dos2unix NS-Build.sh
-sudo chmod +x NS-Build.sh
-sudo ./NS-Build.sh
+sudo NeoCircuit-Linux-Tools-x64.guust
+sudo ./NeoCircuit-Linux-Tools-x64.guust
